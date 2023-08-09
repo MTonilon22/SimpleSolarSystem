@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-image: url(../images/outer-space2.jpg);
+    background-image: url(../SimpleSolarSystem/images/outer-space2.jpg);
     background-size: 100%;
     
 
@@ -12,7 +12,7 @@ a {
 .sun {
     height: 90px;
     width: 90px;
-    background-image: url(../images/sun.png);
+    background-image: url(../SimpleSolarSystem/images/sun.png);
     border-radius: 50%;
     background-size: 150px 150px;
     background-repeat: no-repeat;
@@ -24,10 +24,11 @@ a {
     /* background-color: red; */
     background-position: center;
     cursor: pointer;
+    
 }
 
 .mercury{
-    background-image: url(../images/mercury.png);
+    background-image: url(../SimpleSolarSystem/images/mercury.png);
     height: 20px;
     width: 20px;
     background-size: 30px 30px;
@@ -78,7 +79,7 @@ p{
 .venus {
     height: 40px;
     width: 40px;
-    background-image: url(../images/venus.png);
+    background-image: url(../SimpleSolarSystem/images/venus.png);
     background-size: 47px 47px;
     background-repeat: no-repeat;
     border-radius: 50%;
@@ -106,7 +107,7 @@ p{
 .earth {
     height: 40px;
     width: 40px;
-    background-image: url(../images/earth.png);
+    background-image: url(../SimpleSolarSystem/images/earth.png);
     background-repeat: no-repeat;
     background-size: 55px 55px;
     /* background-color: red; */
@@ -162,7 +163,7 @@ p{
 .mars {
     height: 25px;
     width: 25px;
-    background-image: url(../images/mars.png);
+    background-image: url(../SimpleSolarSystem/images/mars.png);
     background-size: 45px 45px;
     
     border-radius: 50%;
@@ -189,7 +190,7 @@ p{
 .jupiter {
     height: 60px;
     width: 60px;
-    background-image: url(../images/jupiter.png);
+    background-image: url(../SimpleSolarSystem/images/jupiter.png);
     background-size: 90px 90px;
   
     border-radius: 50%;
@@ -226,7 +227,7 @@ p{
  }
  
  .satellite-inner {
-     background-image: url(../images/satellite.png);
+     background-image: url(../SimpleSolarSystem/images/satellite.png);
      height: 20px;
      width: 20px;
      background-size: cover;
@@ -249,7 +250,7 @@ p{
 .saturn {
     height: 65px;
     width: 65px;
-    background-image: url(../images/saturn.png);
+    background-image: url(../SimpleSolarSystem/images/saturn.png);
     background-size: 55px 55px;
     
     border-radius: 50%;
@@ -277,7 +278,7 @@ p{
 .uranus {
     height: 45px;
     width: 45px;
-    background-image: url(../images/uranus.png);
+    background-image: url(../SimpleSolarSystem/images/uranus.png);
     background-size: 75px 75px;
     
     border-radius: 50%;
@@ -305,7 +306,7 @@ p{
 .neptune {
     height: 45px;
     width: 45px;
-    background-image: url(../images/neptune.png);
+    background-image: url(../SimpleSolarSystem/images/neptune.png);
     background-size: 75px 75px;
     border-radius: 50%;
     position: absolute; 
