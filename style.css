@@ -1,16 +1,16 @@
 body {
   margin: 0px;
   padding: 0px;
-  background-image: url(../images/outer-space2.jpg);
+  background-image: url(../images/night-sky.jpg);
   background-size: 100%;
 }
 
 .sun {
-  height: 90px;
-  width: 90px;
+  height: 80px;
+  width: 80px;
   background-image: url(../images/sun.png);
   border-radius: 50%;
-  background-size: 150px 150px;
+  background-size: 140px 140px;
   background-repeat: no-repeat;
   box-shadow: 0px 0px 56px #f9c05f;
   position: absolute;
@@ -24,9 +24,9 @@ body {
 
 .mercury {
   background-image: url(../images/mercury.png);
-  height: 20px;
-  width: 20px;
-  background-size: 30px 30px;
+  height: 10px;
+  width: 10px;
+  background-size: 20px 20px;
   border-radius: 50%;
   position: absolute;
   box-shadow: 0px 0px 30px #dda443;
@@ -76,10 +76,10 @@ p {
 }
 
 .venus {
-  height: 40px;
-  width: 40px;
+  height: 30px;
+  width: 30px;
   background-image: url(../images/venus.png);
-  background-size: 47px 47px;
+  background-size: 37px 37px;
   background-repeat: no-repeat;
   border-radius: 50%;
   position: absolute;
@@ -106,8 +106,8 @@ p {
 }
 
 .earth {
-  height: 40px;
-  width: 40px;
+  height: 30px;
+  width: 30px;
   background-image: url(../images/earth.png);
   background-repeat: no-repeat;
   background-size: 55px 55px;
@@ -123,8 +123,8 @@ p {
 }
 
 .earth-outline-1 {
-  height: 350px;
-  width: 350px;
+  height: 340px;
+  width: 340px;
 }
 
 @keyframes orbit4 {
@@ -137,8 +137,8 @@ p {
 }
 
 .earth-circle {
-  height: 60px;
-  width: 60px;
+  height: 50px;
+  width: 50px;
   border: 0px dotted #a7a3a3;
   position: relative;
   left: -10px;
@@ -185,8 +185,8 @@ p {
 }
 
 .mars-outline-1 {
-  height: 460px;
-  width: 460px;
+  height: 450px;
+  width: 450px;
 }
 
 @keyframes orbit6 {
@@ -199,8 +199,8 @@ p {
 }
 
 .jupiter {
-  height: 60px;
-  width: 60px;
+  height: 50px;
+  width: 50px;
   background-image: url(../images/jupiter.png);
   background-size: 90px 90px;
 
@@ -216,8 +216,8 @@ p {
 }
 
 .jupiter-outline-1 {
-  height: 600px;
-  width: 600px;
+  height: 590px;
+  width: 590px;
 }
 
 @keyframes orbit7 {
@@ -230,8 +230,8 @@ p {
 }
 
 .satellite-circle {
-  height: 85px;
-  width: 85px;
+  height: 80px;
+  width: 80px;
   border: 0px dotted #fff;
   position: relative;
   left: -14px;
@@ -241,8 +241,8 @@ p {
 
 .satellite-inner {
   background-image: url(../images/satellite.png);
-  height: 20px;
-  width: 20px;
+  height: 10px;
+  width: 10px;
   background-size: cover;
 
   border-radius: 50%;
@@ -265,8 +265,8 @@ p {
 }
 
 .saturn {
-  height: 65px;
-  width: 65px;
+  height: 55px;
+  width: 55px;
   background-image: url(../images/saturn.png);
   background-size: 55px 55px;
 
@@ -282,8 +282,8 @@ p {
 }
 
 .saturn-outline-1 {
-  height: 730px;
-  width: 730px;
+  height: 720px;
+  width: 720px;
 }
 
 @keyframes orbit8 {
@@ -296,8 +296,8 @@ p {
 }
 
 .uranus {
-  height: 45px;
-  width: 45px;
+  height: 40px;
+  width: 40px;
   background-image: url(../images/uranus.png);
   background-size: 75px 75px;
 
@@ -313,8 +313,8 @@ p {
 }
 
 .uranus-outline-1 {
-  height: 850px;
-  width: 850px;
+  height: 840px;
+  width: 840px;
 }
 
 @keyframes orbit9 {
@@ -327,8 +327,8 @@ p {
 }
 
 .neptune {
-  height: 45px;
-  width: 45px;
+  height: 40px;
+  width: 40px;
   background-image: url(../images/neptune.png);
   background-size: 75px 75px;
   border-radius: 50%;
@@ -343,8 +343,8 @@ p {
 }
 
 .neptune-outline-1 {
-  height: 1000px;
-  width: 1000px;
+  height: 900px;
+  width: 900px;
 }
 
 @keyframes orbit10 {
